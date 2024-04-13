@@ -31,3 +31,6 @@
         }
 
 // Add these permission in the IAM role of CodeBuild
+
+
+// Added these line trigeer the job again.
